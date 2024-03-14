@@ -1,0 +1,22 @@
+/*
+ * app.c
+ *
+ *  Created on: Mar 14, 2024
+ *      Author: chmnku
+ */
+
+
+#include "app.h"
+
+void apInit(void)
+{
+
+}
+
+void apMain(void)
+{
+  while(1)
+  {
+    HAL_GPIO_TogglePin(GPIO_TypeDef *GPIOx, uint16_t GPIO_Pin);
+  }
+}

@@ -1,0 +1,23 @@
+/*
+ * app.c
+ *
+ *  Created on: Mar 14, 2024
+ *      Author: chmnku
+ */
+
+
+#include "app.h"
+#include "gpio.h"
+
+void apInit(void)
+{
+
+}
+
+void apMain(void)
+{
+  while(1)
+  {
+
+  }
+}
