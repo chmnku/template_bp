@@ -27,5 +27,9 @@ Src/Device/Bsp/src \
 Src/Device/Bsp/startup \
 Src/Device/Hw/src \
 Src/Lib/mx_c8t6/Drivers/STM32F1xx_HAL_Driver/Src \
+Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src \
+Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Core/Src \
+Src/Lib/mx_c8t6/USB_DEVICE/App \
+Src/Lib/mx_c8t6/USB_DEVICE/Target \
 Src \
 

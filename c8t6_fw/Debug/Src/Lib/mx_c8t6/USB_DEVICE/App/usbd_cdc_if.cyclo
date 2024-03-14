@@ -1,0 +1,9 @@
+../Src/Lib/mx_c8t6/USB_DEVICE/App/usbd_cdc_if.c:32:10:cdcAvailable	1
+../Src/Lib/mx_c8t6/USB_DEVICE/App/usbd_cdc_if.c:41:6:cdcDataIn	2
+../Src/Lib/mx_c8t6/USB_DEVICE/App/usbd_cdc_if.c:54:9:cdcRead	2
+../Src/Lib/mx_c8t6/USB_DEVICE/App/usbd_cdc_if.c:68:10:cdcWrite	4
+../Src/Lib/mx_c8t6/USB_DEVICE/App/usbd_cdc_if.c:221:15:CDC_Init_FS	1
+../Src/Lib/mx_c8t6/USB_DEVICE/App/usbd_cdc_if.c:235:15:CDC_DeInit_FS	1
+../Src/Lib/mx_c8t6/USB_DEVICE/App/usbd_cdc_if.c:249:15:CDC_Control_FS	1
+../Src/Lib/mx_c8t6/USB_DEVICE/App/usbd_cdc_if.c:330:15:CDC_Receive_FS	2
+../Src/Lib/mx_c8t6/USB_DEVICE/App/usbd_cdc_if.c:356:9:CDC_Transmit_FS	2

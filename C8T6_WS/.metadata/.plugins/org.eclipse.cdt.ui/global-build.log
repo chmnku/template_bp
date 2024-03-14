@@ -1,14 +1,7 @@
-11:59:52 **** Incremental Build of configuration Debug for project PRJ_c8t6 ****
+15:26:34 **** Incremental Build of configuration Debug for project PRJ_c8t6 ****
 make -j10 all 
 arm-none-eabi-size  PRJ_c8t6.elf 
    text	   data	    bss	    dec	    hex	filename
-   4780	     20	   1572	   6372	   18e4	PRJ_c8t6.elf
-Finished building: default.size.stdout
- 
-12:00:02 **** Incremental Build of configuration Debug for project PRJ_c8t6 ****
-make -j10 all 
-arm-none-eabi-size  PRJ_c8t6.elf 
-   text	   data	    bss	    dec	    hex	filename
-   4780	     20	   1572	   6372	   18e4	PRJ_c8t6.elf
+  30764	    388	   5636	  36788	   8fb4	PRJ_c8t6.elf
 Finished building: default.size.stdout
  
