@@ -10,6 +10,7 @@
 
 #include "common.h"
 #include "stm32f1xx_hal.h"
+#include "hw.h"
 
 void apInit(void);
 void apMain(void);

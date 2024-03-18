@@ -1,0 +1,6 @@
+../Src/Device/Hw/driver/uart.c:19:6:uartInit	2
+../Src/Device/Hw/driver/uart.c:29:6:uartOpen	2
+../Src/Device/Hw/driver/uart.c:44:10:uartAvailable	2
+../Src/Device/Hw/driver/uart.c:58:9:uartRead	2
+../Src/Device/Hw/driver/uart.c:72:10:uartWrite	2
+../Src/Device/Hw/driver/uart.c:85:10:uartPrintf	1

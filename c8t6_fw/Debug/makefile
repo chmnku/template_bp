@@ -15,6 +15,7 @@ RM := rm -rf
 -include Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/subdir.mk
 -include Src/Lib/mx_c8t6/Drivers/STM32F1xx_HAL_Driver/Src/subdir.mk
 -include Src/Device/Hw/src/subdir.mk
+-include Src/Device/Hw/driver/subdir.mk
 -include Src/Device/Bsp/startup/subdir.mk
 -include Src/Device/Bsp/src/subdir.mk
 -include Src/App/src/subdir.mk

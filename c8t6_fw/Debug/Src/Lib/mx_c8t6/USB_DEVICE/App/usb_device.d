@@ -34,6 +34,8 @@ Src/Lib/mx_c8t6/USB_DEVICE/App/usb_device.o: \
  /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Definition/common.h \
  /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/App/inc/app.h \
  /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Device/Hw/inc/hw_def.h \
+ /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Definition/include/uart.h \
+ /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Device/Hw/inc/hw_def.h \
  /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
  /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
  /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
@@ -76,6 +78,8 @@ Src/Lib/mx_c8t6/USB_DEVICE/App/usb_device.o: \
 /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Device/Bsp/inc/bsp.h:
 /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Definition/common.h:
 /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/App/inc/app.h:
+/Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Device/Hw/inc/hw_def.h:
+/Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Definition/include/uart.h:
 /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Device/Hw/inc/hw_def.h:
 /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h:
 /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:

@@ -1,0 +1,13 @@
+/*
+ * uart.h
+ *
+ *  Created on: Mar 17, 2024
+ *      Author: chmnku
+ */
+
+#ifndef SRC_DEFINITION_INCLUDE_UART_H_
+#define SRC_DEFINITION_INCLUDE_UART_H_
+
+
+
+#endif /* SRC_DEFINITION_INCLUDE_UART_H_ */

@@ -33,6 +33,8 @@ Src/Lib/mx_c8t6/USB_DEVICE/App/usbd_desc.o: \
  /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
  /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h \
  /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Device/Hw/inc/hw_def.h \
+ /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Definition/include/uart.h \
+ /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Device/Hw/inc/hw_def.h \
  /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
  /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
  /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
@@ -71,6 +73,8 @@ Src/Lib/mx_c8t6/USB_DEVICE/App/usbd_desc.o: \
 /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h:
 /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h:
 /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h:
+/Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Device/Hw/inc/hw_def.h:
+/Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Definition/include/uart.h:
 /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Device/Hw/inc/hw_def.h:
 /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:
 /Users/chmnku/Developement/Bluepill/c8t6_fw/Src/Lib/mx_c8t6/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
